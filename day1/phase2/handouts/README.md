@@ -1,4 +1,6 @@
 # フェーズ2：JavaScript
+著：[ちゅるり](https://x.com/chururi_)
+
 フェーズ 2 では JavaScript を勉強し、HTML に組み込んで使用する方法について学習します。
 
 ## 事前準備
