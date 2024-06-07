@@ -189,7 +189,7 @@ Listing5 に示した表のコードを編集して、`知識情報・図書館�
 **Listing7：画像埋め込みの記述例**
 
 ```html
-0<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKaue9xYsQAWjEXp31MU4B_25WqW_QQJRW-Y1erQWexkTH9YYntKHswJj9eKLHQcnYxM8GJgxqPSx61cgPt6zM6eSCPsxBZWJ5ZNvXe-NWKgnhEPJ7ZLIzb763rnhiw5eh4_ZG8ykfYA33pomh_0KY2qw3uj_-lxO8DviN0Kofpp7P1Pn0dyRsj_58AY0w/s400/food_tokuho.png" alt="特定保健用食品のイラスト
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKaue9xYsQAWjEXp31MU4B_25WqW_QQJRW-Y1erQWexkTH9YYntKHswJj9eKLHQcnYxM8GJgxqPSx61cgPt6zM6eSCPsxBZWJ5ZNvXe-NWKgnhEPJ7ZLIzb763rnhiw5eh4_ZG8ykfYA33pomh_0KY2qw3uj_-lxO8DviN0Kofpp7P1Pn0dyRsj_58AY0w/s400/food_tokuho.png" alt="特定保健用食品のイラスト
 ">
 ```
 
