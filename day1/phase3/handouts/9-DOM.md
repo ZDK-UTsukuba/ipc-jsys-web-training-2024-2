@@ -72,7 +72,7 @@ button.addEventListener('click', (e) => {
 
 **Listing5：HTML によるイベントリスナの登録**
 ```html
-<button onClick="onClickListener">テストボタン</button>
+<button onClick="onClickListener()">テストボタン</button>
 
 <script>
     function onClickListener(e) {
