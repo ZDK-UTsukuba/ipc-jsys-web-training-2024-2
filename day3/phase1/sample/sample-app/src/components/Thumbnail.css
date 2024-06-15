@@ -1,0 +1,27 @@
+.thumbnail {
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px 32px;
+  border-radius: 12px;
+  gap: 32px;
+  box-shadow: 0 0 16px rgba(0, 0, 0, 0.1);
+}
+
+.thumbnail > img {
+  width: 130px;
+}
+
+.inner > h2 {
+  font-size: 1em;
+  color: #333;
+  margin: 0;
+  text-align: left;
+}
+
+.inner > p {
+  font-size: 0.8em;
+  text-align: left;
+  margin: 12px 0 0;
+}
